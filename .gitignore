@@ -1,0 +1,5 @@
+media/
+junk/
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
