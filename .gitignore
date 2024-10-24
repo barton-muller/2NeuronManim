@@ -3,3 +3,4 @@ junk/
 .ipynb_checkpoints/
 .vscode/
 __pycache__/
+data/
