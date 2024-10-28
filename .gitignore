@@ -4,3 +4,4 @@ junk/
 .vscode/
 __pycache__/
 data/
+.DS_Store
